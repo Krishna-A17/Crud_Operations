@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "name": "Ali",
+      "email": "baba@gmail.com",
+      "phone": "8805656565",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "8096568131",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "bala",
+      "email": "bala@mail.com",
+      "phone": "100",
+      "active": true,
+      "id": 5
+    },
+    {
+      "name": "Alibaba",
+      "email": "alibaba@gmail.com",
+      "phone": "88565656565",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "phone": "8096568131",
+      "active": true,
+      "id": 9
+    }
+  ]
+}
