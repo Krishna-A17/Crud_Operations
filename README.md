@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+###  Start the Server
+### `npx json-server --watch db.json --port 8000`  
 ### `npm start`
 
 Runs the app in the development mode.\
